@@ -7,4 +7,4 @@ Embarking on a new chapter of my professional life, I've transitioned into the r
 
 ## Recent Development Projects
 ### Calendar Library
-I often design analyitcs for consumption either for myself or others. The foundation of these types of applications is a calendar system. Often different entities will have different starts to fical years and that needs to be centralized so all data can speak in the same terms. For example, week 1 in one system may be week 4 in another. 
+I often design analyitcs for consumption either for myself or others. The foundation of these types of applications is a calendar system. Often different entities will have different starts to fical years and applications need a way to translate and normalize the data.
