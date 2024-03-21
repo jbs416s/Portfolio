@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalendarLibrary.Models
 {
-    internal class CalendarWeek
+    public class CalendarWeek
     {
     }
 }
