@@ -6,7 +6,7 @@ With a robust foundation spanning over two decades, my career has been a blend o
 Pursuing a new chapter in my professional life, I've transitioned into the role of an Account Executive, where I leverage my unique background to offer insights not common in the field. My ability to not just analyze data and make informed business decisions, but also to develop the very tools, software, and systems necessary for data collection and analysis, sets me apart. This multidisciplinary approach enables me to deliver complete solutions that bridge the gap between technology and business operations.
 
 
-## Recent Development Projects
+## Recent Portfolio Projects
 ### Calendar Library | April 2024
 I often design analyitcs for consumption either for myself or others. The foundation of these types of applications is a calendar system. Often different entities will have different starts to fical years and applications need a way to translate and normalize these dates accross different data sets.
 
