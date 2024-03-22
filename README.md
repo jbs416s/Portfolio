@@ -1,5 +1,5 @@
 # Who am I?
-## **Joshua Stanley: A Versatile Professional in Tech and Business**
+### **Joshua Stanley: A Versatile Professional in Tech and Business**
 
 With a robust foundation spanning over two decades, my career has been a blend of deep technical expertise and strategic business management. As a seasoned .NET Developer and Systems Administrator, I've navigated the complexities of software development and systems management, honing skills that are critical in today's technology-driven environments.
 
