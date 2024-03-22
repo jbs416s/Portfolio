@@ -10,6 +10,6 @@ Pursuing a new chapter in my professional life, I've transitioned into the role 
 #### Calendar Library | April 2024
 I often design analyitcs for consumption either for myself or others. The foundation of these types of applications is a calendar system. Often different entities will have different starts to fical years and applications need a way to translate and normalize these dates accross different data sets.
 
-In this library I make use of two common patterns. The Factory Pattern to build the core Calendar model that contains the data and the buisiness logic pertaining to the data. The second pattern is the Repository pattern to abstract away the complexities of the database operations. This repo implementation leverages an abstraction of DataAccess so I can have a mockdata implementation.
+In this library I make use of two common patterns. The Factory Pattern to build the core Calendar model that contains the data and the buisiness logic pertaining to the data. The second pattern is the Repository pattern to abstract away the complexities of the database operations. This repo implementation leverages an abstraction of DataAccess so I can have a mockdata implementation for this demo.
 
 *NOTE: I added a simple console project to the class library for demo purposes.*
