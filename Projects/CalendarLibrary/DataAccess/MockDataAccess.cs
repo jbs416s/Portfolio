@@ -9,20 +9,24 @@ namespace CalendarLibrary.DataAccess;
 
 public class MockDataAccess : IDataAccess
 {
-    private List<CalendarWeek> weeksData { get; set; } = new List<CalendarWeek>();
+    private List<CalendarWeek> customerCalData = new List<CalendarWeek>();
+    private List<CalendarWeek> standardCalData = new List<CalendarWeek>();
 
     public MockDataAccess()
     {
-        weeksData = InitializeMockData();
+        customerCalData = InitializeCustomerMockData();
     }
 
-    private List<CalendarWeek> InitializeMockData()
+    private List<CalendarWeek> InitializeCustomerMockData()
     {
         var data = new List<CalendarWeek>();
         return data;
     }
 
-    public void SaveData<T>(T dataModel, string command, string connectionString) { }
+    public void SaveData<T>(T dataModel, string command, string connectionString) 
+    {
+        new NotImplementedException();
+    }
 
     public List<T> LoadData<T, U>(T dataModel, U parameters, string command, string connectionString)
     {
